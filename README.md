@@ -1,5 +1,5 @@
 # PowerBI
-All you need to know about PowerBI to get you from a beginner to expert
+All you need to know about PowerBI to get you from a beginner to expert!
 
 Learnings from the post:
 1. Introduction 
